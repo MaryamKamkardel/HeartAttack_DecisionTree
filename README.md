@@ -53,11 +53,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    [git clone [https://github.com/MaryamKamkardel/HeartAttack_DecisionTree.git]
+    [git clone [https://github.com/MaryamKamkardel/HeartAttack_DecisionTree.git]]
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd heart-attack-prediction
+    cd HeartAttack_DecisionTree
     ```
 3. **Install required packages**:
     ```sh
